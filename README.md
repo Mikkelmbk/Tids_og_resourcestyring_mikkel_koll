@@ -47,9 +47,9 @@ Oveni de 259 timers totale arbejdstid er der også bevilliget 10 timers overarbe
 ```
 Benny må kun bruges på projektet i starten til udvikling, senere i projektet har han så travlt med meget andet at han kun må bruges til brugertests
 
-Benny har 333 timers total arbejdstid tilgængeligt.
+Benny bruges i starten af projektet, altså de første 3 uger, det vil sige at benny kan bruges i 111 timer.
 
-Oveni de 333 timer er der beviligget 10 timers overarbejde oveni de 333 timer. 333 + 10 = 343 timers total arbejdstid.
+Oveni de 111 timer har benny også 10 timers overarbejde, så alt i alt kan benny bruges til regulært arbejde i 121 timer.
 ```
 ## **Mikkels totale arbejdstid**
 
@@ -70,10 +70,10 @@ Egons totalt tilgængelige arbejdstid er 210 timer.
 
 Kjelds totalt tilgængelige arbejdstid er 269 timer.
 
-Bennys totalt tilgængelige arbejdstid er 343 timer.
+Bennys totalt tilgængelige arbejdstid er 121 timer.
 
 Mikkels totalt tilgængelige arbejdstid er 121 timer.
 
-Der er alt i alt 943 timers tilgængelig arbejdstid over hele projekt perioden blandt alle medarbejdere i projektet.
+Der er alt i alt 721 timers tilgængelig arbejdstid over hele projekt perioden blandt alle medarbejdere i projektet.
 ```
 
