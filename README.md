@@ -45,9 +45,35 @@ Oveni de 259 timers totale arbejdstid er der også bevilliget 10 timers overarbe
 ## **Bennys totale arbejdstid**
 
 ```
+Benny må kun bruges på projektet i starten til udvikling, senere i projektet har han så travlt med meget andet at han kun må bruges til brugertests
+
+Benny har 333 timers total arbejdstid tilgængeligt.
+
+Oveni de 333 timer er der beviligget 10 timers overarbejde oveni de 333 timer. 333 + 10 = 343 timers total arbejdstid.
+```
+## **Mikkels totale arbejdstid**
 
 ```
+Jeg er tilknyttet 3 forskellige projekter i firmaet og har derfor kun 1/3 af tiden tilgængeligt til dette projekt
 
+333 Divideret med 3 = 111 timer
 
+Oveni de 111 timer er der bevilliget 10 timers overarbejde
 
+111 + 10 = 121 timers total arbjedstid tilgængelig.
+```
+
+## **Alle medarbejders totale arbejdstid efter alt er udregnet**
+
+```
+Egons totalt tilgængelige arbejdstid er 210 timer.
+
+Kjelds totalt tilgængelige arbejdstid er 269 timer.
+
+Bennys totalt tilgængelige arbejdstid er 343 timer.
+
+Mikkels totalt tilgængelige arbejdstid er 121 timer.
+
+Der er alt i alt 943 timers tilgængelig arbejdstid over hele projekt perioden blandt alle medarbejdere i projektet.
+```
 
