@@ -1,5 +1,8 @@
 # Tids_og_resourcestyring_mikkel_koll
 
+[Link til Opgave bogen](https://issuu.com/tstormdk/docs/projektplan-eksempel-musiconmagasin)
+
+[Kalender link til reference](https://ugenr.dk/kalender/2017-2)
 
 ## **Arbejdstid udregnet** 
 ```
